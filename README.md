@@ -1,3 +1,3 @@
 # gbXML
 
-This repo includes sample gbXML files.
+This repo includes example gbXML files.
